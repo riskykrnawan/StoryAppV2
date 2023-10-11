@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="password">Kata sandi</string>
+    <string name="password_warning">Panjang kata sandi minimal harus 8 karakter</string>
+    <string name="email_warning">Silakan isi alamat email</string>
+    <string name="email">Email</string>
+    <string name="supporting_email">Masukkan email Anda</string>
+    <string name="supporting_password">Masukkan kata sandi Anda</string>
+    <string name="name">Nama</string>
+    <string name="supporting_name">Masukkan nama Anda</string>
+    <string name="register">Buat akun</string>
+    <string name="login">Masuk</string>
+    <string name="register_now">Baru di platform kami? Buat akun sekarang</string>
+    <string name="login_now">Sudah memiliki akun? Masuk disini.</string>
+    <string name="splash_image">Gambar Splash</string>
+    <string name="registration_success">Selamat! Pendaftaran Anda berhasil</string>
+    <string name="login_failed">Gagal masuk. Silakan periksa email dan kata sandi Anda</string>
+    <string name="photo_story">Photo Story</string>
+    <string name="upload_camera">Kamera</string>
+    <string name="upload_gallery">Galeri</string>
+    <string name="description">Deskripsi</string>
+    <string name="submit">Kirim</string>
+    <string name="add_story">Tambahkan Cerita</string>
+    <string name="supporting_description">Masukkan deskripsi cerita Anda</string>
+    <string name="permission_not_granted">Izin tidak diberikan</string>
+    <string name="logout">Keluar</string>
+    <string name="create_story">Buat Cerita</string>
+    <string name="created_at">Dibuat pada</string>
+    <string name="upload_photo_story">Unggah foto cerita Anda</string>
+    <string name="email_is_invalid">%1$s: Email tidak valid, gunakan email lain</string>
+    <string name="failed_to_take_picture">Gagal mengambil gambar</string>
+    <string name="failed_to_set_up_the_camera">Gagal menyiapkan kamera</string>
+    <string name="switch_camera">Beralih Kamera</string>
+    <string name="take_picture">Mengambil gambar</string>
+    <string name="a_logo">Logo</string>
+    <string name="setting">Pengaturan</string>
+    <string name="retry">Coba lagi</string>
+    <string name="error">Kesalahan</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">Peta</string>
+    <string name="show_location">Tampilkan Lokasi</string>
+    <string name="there_is_no_data_exist">Tidak ada data</string>
+</resources>

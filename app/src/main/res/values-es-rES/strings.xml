@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="password">Contraseña</string>
+    <string name="password_warning">La contraseña debe tener al menos 8 caracteres.</string>
+    <string name="email_warning">Ingrese una dirección de correo electrónico válida.</string>
+    <string name="email">Correo electrónico</string>
+    <string name="supporting_email">Ingrese su correo electrónico</string>
+    <string name="supporting_password">Ingrese su contraseña</string>
+    <string name="name">Nombre</string>
+    <string name="supporting_name">Ingrese su nombre</string>
+    <string name="register">Registrarse</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="register_now">¿Nuevo en nuestra plataforma? Crea una cuenta ahora.</string>
+    <string name="login_now">¿Ya tienes una cuenta? Inicie sesión aquí.</string>
+    <string name="splash_image">Imagen de bienvenida</string>
+    <string name="registration_success">¡Felicitaciones! Su registro es exitoso</string>
+    <string name="login_failed">Error al iniciar sesión. Por favor revise su correo electrónico y contraseña.</string>
+    <string name="photo_story">Historia fotográfica</string>
+    <string name="upload_camera">Cámara</string>
+    <string name="upload_gallery">Galería</string>
+    <string name="description">Descripción</string>
+    <string name="submit">Enviar</string>
+    <string name="add_story">Agregar historia</string>
+    <string name="supporting_description">Ingrese descripciones de su historia</string>
+    <string name="permission_not_granted">Permiso no otorgado</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="create_story">Crear historia</string>
+    <string name="created_at">Creado en</string>
+    <string name="upload_photo_story">Sube una foto de tu historia</string>
+    <string name="email_is_invalid">%1$s: el correo electrónico no es válido, use otro correo electrónico</string>
+    <string name="failed_to_take_picture">No se pudo tomar la foto</string>
+    <string name="failed_to_set_up_the_camera">Error al configurar la cámara</string>
+    <string name="switch_camera">Cambiar cámara</string>
+    <string name="take_picture">Tomar la foto</string>
+    <string name="a_logo">Un logo</string>
+    <string name="setting">Configuración</string>
+    <string name="retry">Rever</string>
+    <string name="error">Error</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">Mapas</string>
+    <string name="show_location">Mostrar ubicación</string>
+    <string name="there_is_no_data_exist">No hay datos existen</string>
+</resources>
